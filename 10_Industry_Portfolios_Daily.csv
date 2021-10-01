@@ -7,7 +7,7 @@ Missing data are indicated by -99.99 or -999.
 
 
   Average Value Weighted Returns -- Daily
-,NoDur,Durbl,Manuf,Enrgy,HiTec,Telcm,Shops,Hlth ,Utils,Other
+date,NoDur,Durbl,Manuf,Enrgy,HiTec,Telcm,Shops,Hlth ,Utils,Other
 19260701,   0.02,  -0.28,  -0.23,   0.57,  -0.21,  -0.02,  -0.01,   0.97,   0.61,   0.20
 19260702,   0.29,   1.07,   0.81,   0.64,   0.36,   0.26,   0.01,   0.13,   0.47,   0.10
 19260706,   0.24,   0.72,   0.22,   0.17,   0.47,   0.17,  -0.23,   0.23,   0.73,  -0.18
